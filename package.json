@@ -1,7 +1,7 @@
 {
 	"name": "named-components",
 	"description": "styled-components without style",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"main": "named.js",
 	"types": "named.d.ts",
 	"repository": "git@github.com:harryparkdotio/named-components.git",
