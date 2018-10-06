@@ -1,7 +1,8 @@
+import { domElements } from '../../src/constants';
 import { named } from '../../src/named';
 
 describe('named-components', () => {
-	it('should be an empty object', () => {
-		expect(named).toMatchObject({});
+	it('should have keys', () => {
+		expect(Object.keys(named)).toEqual(domElements);
 	});
 });

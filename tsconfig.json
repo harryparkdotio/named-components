@@ -14,7 +14,8 @@
 		"skipLibCheck": true,
 		"lib": ["dom", "es2018"],
 		"suppressImplicitAnyIndexErrors": true,
-		"esModuleInterop": true
+		"esModuleInterop": true,
+		"jsx": "react"
 	},
 	"include": ["src", "test"]
 }

@@ -1,9 +1,10 @@
 module.exports = {
 	transform: {
-		'^.+\\.ts$': 'ts-jest',
+		'^.+\\.tsx?$': 'ts-jest',
 	},
-	testRegex: '(/test/specs/.*|(\\.|/)(spec))\\.ts$',
-	moduleFileExtensions: ['ts', 'js', 'json', 'node'],
+	setupFiles: ['<rootDir>/test/setup.ts'],
+	testRegex: '(/test/specs/.*|(\\.|/)(spec))\\.tsx?$',
+	moduleFileExtensions: ['tsx', 'ts', 'js', 'json', 'node'],
 	modulePathIgnorePatterns: ['<rootDir>/dist'],
 	coverageReporters: ['text-summary', 'lcov'],
 	collectCoverage: true,
