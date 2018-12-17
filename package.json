@@ -1,7 +1,7 @@
 {
 	"name": "named-components",
 	"description": "styled-components without style",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"main": "named.js",
 	"module": "named.es.js",
 	"types": "named.d.ts",
