@@ -3,6 +3,7 @@
 	"description": "styled-components without style",
 	"version": "0.1.2",
 	"main": "named.js",
+	"module": "named.es.js",
 	"types": "named.d.ts",
 	"repository": "git@github.com:harryparkdotio/named-components.git",
 	"author": "Harry Park <harry@harrypark.io>",
@@ -11,7 +12,7 @@
 		"prettier": "prettier --write '{src,test}/**/*.ts' '*.{json,js,md}'",
 		"commit": "git-cz",
 		"release": "np --no-publish",
-		"build": "tsc -p tsconfig.build.json",
+		"build": "rollup -c",
 		"postbuild": "cp package.json dist/ && cp readme.md dist/ && cp license dist/",
 		"cover": "codecov",
 		"lint": "yarn lint:code && yarn lint:prettier",
@@ -22,9 +23,11 @@
 		"test:unit": "jest --runInBand"
 	},
 	"dependencies": {
-		"react": "^16.0.0"
+		"@types/react": "^16.7.17",
+		"react": "^16.6.3"
 	},
 	"optionalDependencies": {
+		"@types/react-dom": "^16.0.11",
 		"react-dom": "^16.6.3"
 	},
 	"devDependencies": {
@@ -34,8 +37,6 @@
 		"@types/enzyme": "^3.1.14",
 		"@types/enzyme-adapter-react-16": "^1.0.3",
 		"@types/jest": "^23.3.3",
-		"@types/react": "^16.4.15",
-		"@types/react-dom": "^16.0.8",
 		"codecov": "^3.1.0",
 		"commitizen": "^3.0.2",
 		"cz-conventional-changelog": "^2.1.0",
@@ -46,7 +47,10 @@
 		"lint-staged": "^7.3.0",
 		"np": "*",
 		"prettier": "^1.14.3",
+		"rollup": "^0.68.0",
+		"rollup-plugin-typescript2": "^0.18.1",
 		"ts-jest": "^23.10.3",
+		"tslib": "^1.9.3",
 		"tslint": "^5.11.0",
 		"tslint-config-prettier": "^1.15.0",
 		"typescript": "^3.1.1"
