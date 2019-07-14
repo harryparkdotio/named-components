@@ -1,0 +1,12 @@
+{
+  "name": "named-components",
+  "description": "styled-components without style",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:harryparkdotio/named-components.git",
+  "author": "Harry Park <harry@harrypark.io>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
