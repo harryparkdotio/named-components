@@ -14,14 +14,21 @@
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "tsdx build --tsconfig tsconfig.build.json",
-    "test": "tsdx test"
+    "test": "tsdx test --env=jsdom"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@types/react": "^16.0.0"
+  },
   "devDependencies": {
     "@types/jest": "^24.0.15",
+    "@types/react-dom": "^16.0.0",
+    "@types/react-test-renderer": "^16.8.2",
     "husky": "^3.0.0",
     "lint-staged": "^9.2.0",
     "prettier": "^1.18.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-test-renderer": "^16.8.6",
     "rimraf": "^2.6.3",
     "tsdx": "^0.7.2",
     "tslib": "^1.10.0",
@@ -33,7 +40,7 @@
     }
   },
   "lint-staged": {
-    "*.{js,json,md,ts,yaml,yml}": [
+    "*.{js,json,md,ts,tsx,yaml,yml}": [
       "prettier --write",
       "git add"
     ]

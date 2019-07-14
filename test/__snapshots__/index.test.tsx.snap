@@ -1,0 +1,349 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`named-components named.a should return correct element 1`] = `<a />`;
+
+exports[`named-components named.abbr should return correct element 1`] = `<abbr />`;
+
+exports[`named-components named.address should return correct element 1`] = `<address />`;
+
+exports[`named-components named.animate should return correct element 1`] = `<animate />`;
+
+exports[`named-components named.animateMotion should return correct element 1`] = `<animateMotion />`;
+
+exports[`named-components named.animateTransform should return correct element 1`] = `<animateTransform />`;
+
+exports[`named-components named.area should return correct element 1`] = `<area />`;
+
+exports[`named-components named.article should return correct element 1`] = `<article />`;
+
+exports[`named-components named.aside should return correct element 1`] = `<aside />`;
+
+exports[`named-components named.audio should return correct element 1`] = `<audio />`;
+
+exports[`named-components named.b should return correct element 1`] = `<b />`;
+
+exports[`named-components named.base should return correct element 1`] = `<base />`;
+
+exports[`named-components named.bdi should return correct element 1`] = `<bdi />`;
+
+exports[`named-components named.bdo should return correct element 1`] = `<bdo />`;
+
+exports[`named-components named.big should return correct element 1`] = `<big />`;
+
+exports[`named-components named.blockquote should return correct element 1`] = `<blockquote />`;
+
+exports[`named-components named.body should return correct element 1`] = `<body />`;
+
+exports[`named-components named.br should return correct element 1`] = `<br />`;
+
+exports[`named-components named.button should return correct element 1`] = `<button />`;
+
+exports[`named-components named.canvas should return correct element 1`] = `<canvas />`;
+
+exports[`named-components named.caption should return correct element 1`] = `<caption />`;
+
+exports[`named-components named.circle should return correct element 1`] = `<circle />`;
+
+exports[`named-components named.cite should return correct element 1`] = `<cite />`;
+
+exports[`named-components named.clipPath should return correct element 1`] = `<clipPath />`;
+
+exports[`named-components named.code should return correct element 1`] = `<code />`;
+
+exports[`named-components named.col should return correct element 1`] = `<col />`;
+
+exports[`named-components named.colgroup should return correct element 1`] = `<colgroup />`;
+
+exports[`named-components named.data should return correct element 1`] = `<data />`;
+
+exports[`named-components named.datalist should return correct element 1`] = `<datalist />`;
+
+exports[`named-components named.dd should return correct element 1`] = `<dd />`;
+
+exports[`named-components named.defs should return correct element 1`] = `<defs />`;
+
+exports[`named-components named.del should return correct element 1`] = `<del />`;
+
+exports[`named-components named.desc should return correct element 1`] = `<desc />`;
+
+exports[`named-components named.details should return correct element 1`] = `<details />`;
+
+exports[`named-components named.dfn should return correct element 1`] = `<dfn />`;
+
+exports[`named-components named.dialog should return correct element 1`] = `<dialog />`;
+
+exports[`named-components named.div should return correct element 1`] = `<div />`;
+
+exports[`named-components named.dl should return correct element 1`] = `<dl />`;
+
+exports[`named-components named.dt should return correct element 1`] = `<dt />`;
+
+exports[`named-components named.ellipse should return correct element 1`] = `<ellipse />`;
+
+exports[`named-components named.em should return correct element 1`] = `<em />`;
+
+exports[`named-components named.embed should return correct element 1`] = `<embed />`;
+
+exports[`named-components named.feBlend should return correct element 1`] = `<feBlend />`;
+
+exports[`named-components named.feColorMatrix should return correct element 1`] = `<feColorMatrix />`;
+
+exports[`named-components named.feComponentTransfer should return correct element 1`] = `<feComponentTransfer />`;
+
+exports[`named-components named.feComposite should return correct element 1`] = `<feComposite />`;
+
+exports[`named-components named.feConvolveMatrix should return correct element 1`] = `<feConvolveMatrix />`;
+
+exports[`named-components named.feDiffuseLighting should return correct element 1`] = `<feDiffuseLighting />`;
+
+exports[`named-components named.feDisplacementMap should return correct element 1`] = `<feDisplacementMap />`;
+
+exports[`named-components named.feDistantLight should return correct element 1`] = `<feDistantLight />`;
+
+exports[`named-components named.feDropShadow should return correct element 1`] = `<feDropShadow />`;
+
+exports[`named-components named.feFlood should return correct element 1`] = `<feFlood />`;
+
+exports[`named-components named.feFuncA should return correct element 1`] = `<feFuncA />`;
+
+exports[`named-components named.feFuncB should return correct element 1`] = `<feFuncB />`;
+
+exports[`named-components named.feFuncG should return correct element 1`] = `<feFuncG />`;
+
+exports[`named-components named.feFuncR should return correct element 1`] = `<feFuncR />`;
+
+exports[`named-components named.feGaussianBlur should return correct element 1`] = `<feGaussianBlur />`;
+
+exports[`named-components named.feImage should return correct element 1`] = `<feImage />`;
+
+exports[`named-components named.feMerge should return correct element 1`] = `<feMerge />`;
+
+exports[`named-components named.feMergeNode should return correct element 1`] = `<feMergeNode />`;
+
+exports[`named-components named.feMorphology should return correct element 1`] = `<feMorphology />`;
+
+exports[`named-components named.feOffset should return correct element 1`] = `<feOffset />`;
+
+exports[`named-components named.fePointLight should return correct element 1`] = `<fePointLight />`;
+
+exports[`named-components named.feSpecularLighting should return correct element 1`] = `<feSpecularLighting />`;
+
+exports[`named-components named.feSpotLight should return correct element 1`] = `<feSpotLight />`;
+
+exports[`named-components named.feTile should return correct element 1`] = `<feTile />`;
+
+exports[`named-components named.feTurbulence should return correct element 1`] = `<feTurbulence />`;
+
+exports[`named-components named.fieldset should return correct element 1`] = `<fieldset />`;
+
+exports[`named-components named.figcaption should return correct element 1`] = `<figcaption />`;
+
+exports[`named-components named.figure should return correct element 1`] = `<figure />`;
+
+exports[`named-components named.filter should return correct element 1`] = `<filter />`;
+
+exports[`named-components named.footer should return correct element 1`] = `<footer />`;
+
+exports[`named-components named.foreignObject should return correct element 1`] = `<foreignObject />`;
+
+exports[`named-components named.form should return correct element 1`] = `<form />`;
+
+exports[`named-components named.g should return correct element 1`] = `<g />`;
+
+exports[`named-components named.h1 should return correct element 1`] = `<h1 />`;
+
+exports[`named-components named.h2 should return correct element 1`] = `<h2 />`;
+
+exports[`named-components named.h3 should return correct element 1`] = `<h3 />`;
+
+exports[`named-components named.h4 should return correct element 1`] = `<h4 />`;
+
+exports[`named-components named.h5 should return correct element 1`] = `<h5 />`;
+
+exports[`named-components named.h6 should return correct element 1`] = `<h6 />`;
+
+exports[`named-components named.head should return correct element 1`] = `<head />`;
+
+exports[`named-components named.header should return correct element 1`] = `<header />`;
+
+exports[`named-components named.hgroup should return correct element 1`] = `<hgroup />`;
+
+exports[`named-components named.hr should return correct element 1`] = `<hr />`;
+
+exports[`named-components named.html should return correct element 1`] = `<html />`;
+
+exports[`named-components named.i should return correct element 1`] = `<i />`;
+
+exports[`named-components named.iframe should return correct element 1`] = `<iframe />`;
+
+exports[`named-components named.image should return correct element 1`] = `<image />`;
+
+exports[`named-components named.img should return correct element 1`] = `<img />`;
+
+exports[`named-components named.input should return correct element 1`] = `<input />`;
+
+exports[`named-components named.ins should return correct element 1`] = `<ins />`;
+
+exports[`named-components named.kbd should return correct element 1`] = `<kbd />`;
+
+exports[`named-components named.keygen should return correct element 1`] = `<keygen />`;
+
+exports[`named-components named.label should return correct element 1`] = `<label />`;
+
+exports[`named-components named.legend should return correct element 1`] = `<legend />`;
+
+exports[`named-components named.li should return correct element 1`] = `<li />`;
+
+exports[`named-components named.line should return correct element 1`] = `<line />`;
+
+exports[`named-components named.linearGradient should return correct element 1`] = `<linearGradient />`;
+
+exports[`named-components named.link should return correct element 1`] = `<link />`;
+
+exports[`named-components named.main should return correct element 1`] = `<main />`;
+
+exports[`named-components named.map should return correct element 1`] = `<map />`;
+
+exports[`named-components named.mark should return correct element 1`] = `<mark />`;
+
+exports[`named-components named.marker should return correct element 1`] = `<marker />`;
+
+exports[`named-components named.mask should return correct element 1`] = `<mask />`;
+
+exports[`named-components named.menu should return correct element 1`] = `<menu />`;
+
+exports[`named-components named.menuitem should return correct element 1`] = `<menuitem />`;
+
+exports[`named-components named.meta should return correct element 1`] = `<meta />`;
+
+exports[`named-components named.metadata should return correct element 1`] = `<metadata />`;
+
+exports[`named-components named.meter should return correct element 1`] = `<meter />`;
+
+exports[`named-components named.mpath should return correct element 1`] = `<mpath />`;
+
+exports[`named-components named.nav should return correct element 1`] = `<nav />`;
+
+exports[`named-components named.noindex should return correct element 1`] = `<noindex />`;
+
+exports[`named-components named.noscript should return correct element 1`] = `<noscript />`;
+
+exports[`named-components named.object should return correct element 1`] = `<object />`;
+
+exports[`named-components named.ol should return correct element 1`] = `<ol />`;
+
+exports[`named-components named.optgroup should return correct element 1`] = `<optgroup />`;
+
+exports[`named-components named.option should return correct element 1`] = `<option />`;
+
+exports[`named-components named.output should return correct element 1`] = `<output />`;
+
+exports[`named-components named.p should return correct element 1`] = `<p />`;
+
+exports[`named-components named.param should return correct element 1`] = `<param />`;
+
+exports[`named-components named.path should return correct element 1`] = `<path />`;
+
+exports[`named-components named.pattern should return correct element 1`] = `<pattern />`;
+
+exports[`named-components named.picture should return correct element 1`] = `<picture />`;
+
+exports[`named-components named.polygon should return correct element 1`] = `<polygon />`;
+
+exports[`named-components named.polyline should return correct element 1`] = `<polyline />`;
+
+exports[`named-components named.pre should return correct element 1`] = `<pre />`;
+
+exports[`named-components named.progress should return correct element 1`] = `<progress />`;
+
+exports[`named-components named.q should return correct element 1`] = `<q />`;
+
+exports[`named-components named.radialGradient should return correct element 1`] = `<radialGradient />`;
+
+exports[`named-components named.rect should return correct element 1`] = `<rect />`;
+
+exports[`named-components named.rp should return correct element 1`] = `<rp />`;
+
+exports[`named-components named.rt should return correct element 1`] = `<rt />`;
+
+exports[`named-components named.ruby should return correct element 1`] = `<ruby />`;
+
+exports[`named-components named.s should return correct element 1`] = `<s />`;
+
+exports[`named-components named.samp should return correct element 1`] = `<samp />`;
+
+exports[`named-components named.script should return correct element 1`] = `<script />`;
+
+exports[`named-components named.section should return correct element 1`] = `<section />`;
+
+exports[`named-components named.select should return correct element 1`] = `<select />`;
+
+exports[`named-components named.small should return correct element 1`] = `<small />`;
+
+exports[`named-components named.source should return correct element 1`] = `<source />`;
+
+exports[`named-components named.span should return correct element 1`] = `<span />`;
+
+exports[`named-components named.stop should return correct element 1`] = `<stop />`;
+
+exports[`named-components named.strong should return correct element 1`] = `<strong />`;
+
+exports[`named-components named.style should return correct element 1`] = `<style />`;
+
+exports[`named-components named.sub should return correct element 1`] = `<sub />`;
+
+exports[`named-components named.summary should return correct element 1`] = `<summary />`;
+
+exports[`named-components named.sup should return correct element 1`] = `<sup />`;
+
+exports[`named-components named.svg should return correct element 1`] = `<svg />`;
+
+exports[`named-components named.switch should return correct element 1`] = `<switch />`;
+
+exports[`named-components named.symbol should return correct element 1`] = `<symbol />`;
+
+exports[`named-components named.table should return correct element 1`] = `<table />`;
+
+exports[`named-components named.tbody should return correct element 1`] = `<tbody />`;
+
+exports[`named-components named.td should return correct element 1`] = `<td />`;
+
+exports[`named-components named.template should return correct element 1`] = `<template />`;
+
+exports[`named-components named.text should return correct element 1`] = `<text />`;
+
+exports[`named-components named.textPath should return correct element 1`] = `<textPath />`;
+
+exports[`named-components named.textarea should return correct element 1`] = `<textarea />`;
+
+exports[`named-components named.tfoot should return correct element 1`] = `<tfoot />`;
+
+exports[`named-components named.th should return correct element 1`] = `<th />`;
+
+exports[`named-components named.thead should return correct element 1`] = `<thead />`;
+
+exports[`named-components named.time should return correct element 1`] = `<time />`;
+
+exports[`named-components named.title should return correct element 1`] = `<title />`;
+
+exports[`named-components named.tr should return correct element 1`] = `<tr />`;
+
+exports[`named-components named.track should return correct element 1`] = `<track />`;
+
+exports[`named-components named.tspan should return correct element 1`] = `<tspan />`;
+
+exports[`named-components named.u should return correct element 1`] = `<u />`;
+
+exports[`named-components named.ul should return correct element 1`] = `<ul />`;
+
+exports[`named-components named.use should return correct element 1`] = `<use />`;
+
+exports[`named-components named.var should return correct element 1`] = `<var />`;
+
+exports[`named-components named.video should return correct element 1`] = `<video />`;
+
+exports[`named-components named.view should return correct element 1`] = `<view />`;
+
+exports[`named-components named.wbr should return correct element 1`] = `<wbr />`;
+
+exports[`named-components named.webview should return correct element 1`] = `<webview />`;

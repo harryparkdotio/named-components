@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "esModuleInterop": true,
-    "jsx": "preserve",
-    "lib": ["esnext"],
+    "jsx": "react",
+    "lib": ["dom", "esnext"],
     "module": "esnext",
     "moduleResolution": "node",
     "strict": true,
