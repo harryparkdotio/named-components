@@ -2,11 +2,40 @@
   "name": "named-components",
   "description": "styled-components without style",
   "version": "0.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/named-components.esm.js",
+  "typings": "dist/index.d.ts",
   "repository": "git@github.com:harryparkdotio/named-components.git",
   "author": "Harry Park <harry@harrypark.io>",
   "license": "MIT",
-  "scripts": {},
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "tsdx build --tsconfig tsconfig.build.json",
+    "test": "tsdx test"
+  },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "husky": "^3.0.0",
+    "lint-staged": "^9.2.0",
+    "prettier": "^1.18.2",
+    "rimraf": "^2.6.3",
+    "tsdx": "^0.7.2",
+    "tslib": "^1.10.0",
+    "typescript": "^3.5.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,md,ts,yaml,yml}": [
+      "prettier --write",
+      "git add"
+    ]
+  }
 }
